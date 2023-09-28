@@ -6,5 +6,5 @@ def reverse_num(num):
         rev=rev*10+ld
         num=num//10 
     return rev 
-print(reverse_num(199))
+print(reverse_num(199))    
     
